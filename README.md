@@ -1,3 +1,4 @@
+![Workflow Status](https://github.com/SahithiGundapaneni/ids568-milestone3-sgund12-/actions/workflows/train_and_validate.yml/badge.svg)
 # Milestone 3 – Workflow Automation + Experiment Tracking
 
 ## Setup Instructions
